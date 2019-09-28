@@ -5,5 +5,13 @@
 Java,Python,Php
 hello git
 fdsafdsvsdgsagfdsfwefsda
+<<<<<<< HEAD
 hajimanmahsitadaozoi
 吾乃是花果山水帘洞的齐天大圣孙悟空
+=======
+hajimanmahsitadaozou000000
+
+
+wadsaionrnklsdvjkjkx cjjk
+
+>>>>>>> dev
