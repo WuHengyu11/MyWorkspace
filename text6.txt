@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 asdsccca
 
+=======
+<<<<<<< HEAD
+addd
+=======
+asdsccca
+
+>>>>>>> dev
+>>>>>>> feature-vulcan
